@@ -1,7 +1,7 @@
 # Studio Project
 
 ## Overview: 
-In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio.
+In this unit, coders will create an online Portfolio. The Portfolio will provide personal information, links to their prior projects, and contact information. To create this project, coders will use bootstrap to layout their page and gh-pages to host their portfolio. Students will use Firebase to host their content for their projects. 
 
 ## Instructions
 1) Fork this repo to your own github account. 
